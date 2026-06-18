@@ -1,0 +1,6 @@
+{
+  "name": "CareerNavigator AI",
+  "description": "აკადემიური სილაბუსებისა და CV-ს ანალიზი, Google Search Grounding-ით რეალური ვაკანსიების ძიება და კარიერული მენტორობა უნივერსიტეტის სტუდენტებისთვის.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
